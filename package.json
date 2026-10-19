@@ -6,8 +6,7 @@
   "description": "Observes the named JSNode package carriers and active source resources beneath one explicit repository root.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-code-engineering-services-section.git",
-    "directory": "services/javascript-engineering-services-section/services/javascript-normalization-services-section/services/jsnode-package-body-observation-service"
+    "url": "git+https://github.com/red-cup-engineering/jsnode-package-body-observation-service.git"
   },
   "exports": "./src/observe-jsnode-package-body.mjs",
   "scripts": {
