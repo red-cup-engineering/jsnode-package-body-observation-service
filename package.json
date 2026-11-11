@@ -1,6 +1,6 @@
 {
   "name": "@red-cup-engineering/jsnode-package-body-observation-service",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "type": "module",
   "description": "Observes the named JSNode package carriers and active source resources beneath one explicit repository root.",
@@ -18,7 +18,7 @@
     "node": ">=22"
   },
   "devDependencies": {
-    "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
+    "@red-cup-engineering/jsnode-package-services-section": "^0.5.0"
   },
   "files": [
     "src"
